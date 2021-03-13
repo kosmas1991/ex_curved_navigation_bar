@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # ex_curved_navigation_bar
 
 A new Flutter project.
